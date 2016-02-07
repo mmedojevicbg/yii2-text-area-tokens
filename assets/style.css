@@ -1,0 +1,9 @@
+.available-tokens {
+    color: #696969;
+    font-size: 11px;
+}
+.available-tokens .token {
+    display: inline-block;
+    padding-right: 5px;
+    cursor: pointer;
+}
