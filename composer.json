@@ -1,0 +1,22 @@
+
+{
+  "name": "mmedojevicbg/yii2-text-area-tokens",
+  "description": "Text area with clickable tokens for Yii2 forms",
+  "type": "yii2-extension",
+  "keywords": ["yii2","extension","textarea", "tokens", "form"],
+  "license": "GPL-3.0+",
+  "authors": [
+    {
+      "name": "Marko Medojevic",
+      "email": "mmedojevicbg@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "mmedojevicbg\\TextAreaTokens\\": ""
+    }
+  }
+}
